@@ -55,14 +55,7 @@ body {
 }
 
 .perfil {
-  width: 100%;
-  min-height: 40px;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  padding: 30px;
-  gap: 8px 15px;
 }
 
 .perfil-foto {
